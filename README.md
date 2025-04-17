@@ -1,9 +1,9 @@
 ### Issues Identified
 
-- **Issue 1:** The original code didn’t allow the user to input their own topic, making it rigid and less interactive.
-- **Issue 2:** There was no fallback in case of short or invalid input, which could break the program or lead to irrelevant results.
-- **Issue 3:** Reference `.txt` files were saved in the root directory, causing clutter and making file management harder.
-- **Issue 4:** Logic for all three execution methods (sequential, threads, processes) was repetitive instead of modular.
+- **Issue 1-** The original code didn’t allow the user to input their own topic, making it rigid and less interactive.
+- **Issue 2-** There was no fallback in case of short or invalid input, which could break the program or lead to irrelevant results.
+- **Issue 3-** Reference `.txt` files were saved in the root directory, causing clutter and making file management harder.
+- **Issue 4-** Logic for all three execution methods (sequential, threads, processes) was repetitive instead of modular.
 
 ###  Task Breakdonwn
 
